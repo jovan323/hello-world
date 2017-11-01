@@ -1,2 +1,3 @@
 # hello-world
 No idea what I'm doing
+This all looks new and exciting. I can hardly wait to see how it pans out...
